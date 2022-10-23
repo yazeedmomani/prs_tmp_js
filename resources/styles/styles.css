@@ -14,6 +14,19 @@ select {
   font: inherit;
 }
 
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -27,14 +40,5 @@ menu,
 nav,
 section {
   display: block;
-}
-
-body {
-  line-height: 1;
-}
-
-ol,
-ul {
-  list-style: none;
 }
 /* End of CSS reset */
