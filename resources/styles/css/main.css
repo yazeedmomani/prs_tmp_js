@@ -31,6 +31,10 @@ select {
   color: inherit;
 }
 
+button {
+  cursor: pointer;
+}
+
 article,
 aside,
 details,
